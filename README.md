@@ -1,4 +1,5 @@
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png>
+<img src="https://i.pinimg.com/originals/c8/26/2c/c8262c1c2fd50264f174b92203a2d18b.jpg">
+  
 - 👋 Hi, I’m @paulmooredev
 - 👀 I’m interested in code, dogs, traveling and more code
 - 🌱 I’m currently learning and in school to be certified as a Full Stack Developer
