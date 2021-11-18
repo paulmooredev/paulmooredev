@@ -1,4 +1,5 @@
 <img src="https://i.pinimg.com/originals/c8/26/2c/c8262c1c2fd50264f174b92203a2d18b.jpg">
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/paulmooredev/paulmooredev/main/images/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
   
 - 👋 Hi, I’m @paulmooredev
 - 👀 I’m interested in code, dogs, traveling and more code
