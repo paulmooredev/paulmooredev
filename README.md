@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning and in school to be certified as a Full Stack Developer
 - 💞️ I’m looking to collaborate on... not real sure at the moment
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulmooredev&show_icons=true&theme=onedark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulmooredev)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulmooredev&show_icons=true)
-
+<div>
+  
+  <d/>
 
 
 
