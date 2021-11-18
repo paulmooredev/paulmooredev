@@ -8,6 +8,8 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulmooredev)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 
 
 
