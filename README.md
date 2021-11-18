@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning and in school to be certified as a Full Stack Developer
 - 💞️ I’m looking to collaborate on... not real sure at the moment
 
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 
 <!---
