@@ -1,4 +1,3 @@
-badger badge
 [![Build Status](https://travis-ci.org/doge/wow.svg)](https://travis-ci.org/doge/wow)
 [![Coverage Status](http://img.shields.io/coveralls/doge/wow.svg)](https://coveralls.io/r/doge/wow)
 [![Gem Version](http://img.shields.io/gem/v/suchgem.svg)](https://rubygems.org/gems/suchgem)
