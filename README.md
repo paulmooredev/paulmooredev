@@ -1,16 +1,10 @@
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png>
 - 👋 Hi, I’m @paulmooredev
 - 👀 I’m interested in code, dogs, traveling and more code
 - 🌱 I’m currently learning and in school to be certified as a Full Stack Developer
 - 💞️ I’m looking to collaborate on... not real sure at the moment
 
-<div>
-[1.1]: http://i.imgur.com/tXSoThF.png 
-[2.1]: http://i.imgur.com/P3YfQoD.png 
-[3.1]: http://i.imgur.com/yCsTjba.png 
-[4.1]: http://i.imgur.com/YckIOms.png 
-[5.1]: http://i.imgur.com/1AGmwO3.png 
-[6.1]: http://i.imgur.com/0o48UoR.png
-  <div/>
+
 
 <!---
 paulmooredev/paulmooredev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
