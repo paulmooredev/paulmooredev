@@ -1,6 +1,5 @@
 ___________________________________________________________________________________________________________________________________________________________________
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulmooredev&show_icons=true)
 
 
 I am a Full Stack Developer and a Linux ninja. 
