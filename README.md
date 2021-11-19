@@ -1,6 +1,6 @@
-___________________________________________________________________________________________________________________________________________________________________
+<p align=”center”>
 <img src=”https://www.baltana.com/files/wallpapers-5/Coder-Widescreen-Wallpapers-16666.png”>
-
+<p/>
 I am a Full Stack Developer and a Linux ninja. 
 
 About me
