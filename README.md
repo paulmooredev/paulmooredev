@@ -8,7 +8,7 @@ About me
 
 💻 Full Stack Developer at Paul Moore Dev
 
-🥷 Linuz Ninja and new Dad 🍼 
+🥷 Linux Ninja and new Dad 🍼 
 
 💬 Ask me about anything here, I am a student and finishing up my Full Stack Developer Certification.
 
