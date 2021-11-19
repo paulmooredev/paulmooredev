@@ -18,10 +18,10 @@ About me
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulmooredev&show_icons=true&theme=onedark)
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={paulmooredev/paulmooredev}&theme=blue-green)
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmooredev&theme=blue-green)
 ___________________________________________________________________________________________________________________________________________________________________________________
 <div>
-  
+
   <d/>
 
 
