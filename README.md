@@ -6,11 +6,13 @@ I am a Full Stack Developer and a Linux ninja.
 
 About me
 
-💼 Full Stack Developer at Paul Moore Dev
+🪖 Marine Corps Veteran
 
-❤️ I love writing code, and building fun experiments and learning new and challenging things.
+💻 Full Stack Developer at Paul Moore Dev
 
-💬 Ask me about anything here
+🥷 Linuz Ninja and new Dad 🍼 
+
+💬 Ask me about anything here, I am a student and finishing up my Full Stack Developer Certification.
 
 
 
