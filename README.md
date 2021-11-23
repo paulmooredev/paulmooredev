@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm <a href="https://www.paulmoore-dev.com/" target="_blank" rel="noreferrer">Paul Moore</a> 👋
+Hi there, I'm <a href="http://www.paulmoore-dev.com/" target="_blank" rel="noreferrer">Paul Moore</a> 👋
 </h3>
 
 <h2 align="center">
