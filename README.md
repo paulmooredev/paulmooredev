@@ -1,13 +1,14 @@
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Paul Moore</a> 👋
+Hi there, I'm <a href="https://www.paulmoore-dev.com/" target="_blank" rel="noreferrer">Paul Moore</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Linux Programmer 📸, and a Father 🎨!
+I'm a Full-Stack Web Developer and Linux Ninja!
 </h2> 
 
 I love the entire process of developing websites and applications. I love the challenge of finding solutions for individuals and or companies. Let's design something together!
-### 🤝 Connect with me:
+
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/paulmoore3416/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/tatted_patriot34"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
@@ -15,21 +16,21 @@ I love the entire process of developing websites and applications. I love the ch
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+## I'm currently working on
 
 - Mean stack project
 - My next blog
 - My CSS skills
 - My React skills
 
-## 🌱 I'm currently learning
+## I'm currently learning
 
 - 📱 React Native
 - MEAN Stack
 - Personal App
 - Compiling a custom kernel
 
-## 💼 Technical Skills
+## Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
