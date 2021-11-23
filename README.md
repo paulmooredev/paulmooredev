@@ -25,9 +25,9 @@ I love the entire process of developing websites and applications. I love the ch
 ## 🌱 I'm currently learning
 
 - 📱 React Native
-- Firebase
-- Coffee
-- Styled Components  
+- MEAN Stack
+- Personal App
+- Compiling a custom kernel
 
 ## 💼 Technical Skills
 
