@@ -16,11 +16,10 @@ I love the entire process of developing websites and applications. I love the ch
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
+- Mean stack project
 - My next blog
-- My CSS skill
+- My CSS skills
+- My React skills
 
 ## 🌱 I'm currently learning
 
