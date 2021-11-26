@@ -66,6 +66,6 @@ I love the entire process of developing websites and applications. I love the ch
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paulmooredev)](https://github.com/paulmooredev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmooredev&layout=compact)](https://github.com/paulmooredev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmooredev&layout=compact)](https://github.com/paulmooredev/paulmooredev)
 
 
