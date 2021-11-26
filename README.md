@@ -14,9 +14,10 @@ I love the entire process of developing websites and applications. I love the ch
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/paulmoore3416/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/tatted_patriot34"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/paulmoore3416/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Paul Moore | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/tatted_patriot34"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Paul Moore | Instagram" width="21px"/></a>
 <a href="https://medium.com/@paulmmoore3416"><img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174858.png" alt="Paul Moore Dev | Medium" width="21px"/></a>
+<a href="https://twitter.com/PaulMooreDev"><img align="left" src="https://th.bing.com/th/id/R.85c3342886e0670c8197fbce4fd3a774?rik=dUirIEhYCPVX0Q&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpaomedia%2fsmall-n-flat%2f1024%2fsocial-twitter-icon.png&ehk=2WIgc1e2N9ThRGJiG%2f43Eugu28r4qyEq0KfLa%2bDi0jo%3d&risl=&pid=ImgRaw&r=0" alt="Paul Moore | Twitter" width="25px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
