@@ -34,8 +34,8 @@ I love the entire process of developing websites and applications. I love the ch
 
 - 📱 React Native
 - MEAN Stack
-- Personal App
-- Compiling a custom kernel
+- Personal Assistant/Organizer Application
+- Compiling a  kernel
 
 
 ## Technical Skills
