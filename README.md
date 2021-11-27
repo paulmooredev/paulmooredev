@@ -3,7 +3,7 @@ Hi there, I'm <a href="http://www.paulmoore-dev.com/" target="_blank" rel="noref
 </h1>
 
 <div align="center">
-<img src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" width="400">
+<img src="https://th.bing.com/th/id/R.cd59d626dc86397fe45080e6e9c7027d?rik=FMmSpgqbOZPz%2bQ&riu=http%3a%2f%2fstudiopixel.in%2fwp-content%2fuploads%2f2017%2f11%2fsenior-front-end-developer-openings-1.gif&ehk=mUxOzxB0r4nDxzX4RU%2fzPaMHUzaTGpDYRXpWhYVG9%2fQ%3d&risl=&pid=ImgRaw&r=0" width="400">
 </div>
 
 <h2 align="center">
