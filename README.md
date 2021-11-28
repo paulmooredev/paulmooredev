@@ -40,7 +40,7 @@ I love the entire process of developing websites and applications. I love the ch
 
 ## Technical Skills
 
-
+![](https://img.shields.io/badge/vscode--dev--community-gitlens-blue.svg?logo=slack&amp;colorA=482659)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
